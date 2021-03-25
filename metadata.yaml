@@ -1,5 +1,8 @@
 _repo: Waterless-Cooking-for-Better-Meals-Better-Health-Tested-Recipes_64703
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64703-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64703#Waterless-Cooking-for-Better-Meals-Better-Health-Tested-Recipes
 gutenberg_issued: '2021-03-05'
 gutenberg_type: Text
 identifiers:
